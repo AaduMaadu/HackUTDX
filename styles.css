@@ -1,11 +1,3 @@
-* {
-  text-align: center;
-  font-family: sans-serif;
-}
-
-.EOGLogo {
-  
-}
 
 div {
   padding: 0;
@@ -16,5 +8,27 @@ div {
   line-height: 1.5;
   text-align: center;
   text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.1);
+}
+
+.Grid {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.Header {
+  text-align: center;
+  margin: 20px 0;
+}
+
+.Status {
+  text-align: center;
+  padding: 10px;
+  flex: 1;
+  display: flex;
+  align-items: center;
+}
+
+.Leaked {
+  justify-content: flex-start;
 }
 
