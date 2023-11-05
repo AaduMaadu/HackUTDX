@@ -1,8 +1,15 @@
 * {
+  text-align: center;
+  font-family: sans-serif;
+}
+
+.EOGLogo {
+  
+}
+
+div {
   padding: 0;
   margin: 0;
-  font-family: sans-serif;
-  background-color: rgb(158, 155, 155);
   color: black;
   font-size: 16px;
   font-weight: 300;
@@ -11,11 +18,3 @@
   text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.1);
 }
 
-div {
-    color: white;
-    background-color: black;
-  }
-  
-  p {
-    color: red;
-  }
